@@ -3,7 +3,7 @@ PLATFORM := iphoneos
 SCHEMES := Feather
 TMP := $(TMPDIR)/$(NAME)
 STAGE := $(TMP)/stage
-APP := $(TMP)/Build/Products/Release-$(PLATFORM)
+APP := $(TMP)/Build/Products/Debug-$(PLATFORM)
 
 .PHONY: all clean $(SCHEMES)
 
@@ -28,7 +28,7 @@ $(SCHEMES): deps
 	xcodebuild \
 	    -project Feather.xcodeproj \
 	    -scheme "$@" \
-	    -configuration Release \
+	    -configuration Debug \
 	    -arch arm64 \
 	    -sdk $(PLATFORM) \
 	    -derivedDataPath $(TMP) \
