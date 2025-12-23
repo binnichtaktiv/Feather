@@ -19,7 +19,7 @@ jobs:
       - name: Compile Feather
         run: |
           agvtool new-version -all $(git rev-parse HEAD)
-          make
+          make CONFIGURATION=Debug
           mkdir upload
           mv packages/* upload/
 
