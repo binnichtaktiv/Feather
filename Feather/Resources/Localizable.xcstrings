@@ -750,6 +750,12 @@
             "value" : "Add and manage certificates used for signing applications."
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zertifikate zum Signieren von Anwendungen hinzufügen und verwalten."
+          }
+        },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -948,6 +954,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Advanced Installation Method"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erweiterte Installationsmethode"
           }
         },
         "pl" : {
@@ -1985,6 +1997,12 @@
             "value" : "Category"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kategorie"
+          }
+        },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2155,6 +2173,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Certificates updated successfully."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zertifikate erfolgreich aktualisiert."
           }
         },
         "vi" : {
@@ -2814,6 +2838,12 @@
             "value" : "Custom Theme Color"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Benutzerdefinierte Themenfarbe"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3309,6 +3339,12 @@
             "value" : "Description"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beschreibung"
+          }
+        },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3342,6 +3378,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Developer"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entwickler"
           }
         },
         "pl" : {
@@ -3519,6 +3561,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Do you want to export your certificate to an external app? That app will be able to sign apps using your certificate."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Möchten Sie Ihr Zertifikat in eine externe Anwendung exportieren? Diese Anwendung kann dann Anwendungen mit Ihrem Zertifikat signieren."
           }
         },
         "it" : {
@@ -3828,6 +3876,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dynamic Icons"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dynamische Icons"
           }
         },
         "vi" : {
@@ -4720,6 +4774,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Export Certificate"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zertifikat exportieren"
           }
         },
         "it" : {
@@ -6286,6 +6346,12 @@
             "value" : "This installation method is intended for advanced users only!\n\nIt requires a VPN and a pairing file from a PC.\n\nIts recommended you go back to the server installation method."
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diese Installationsmethode ist ausschließlich für fortgeschrittene Nutzer gedacht!\n\nSie erfordert ein VPN sowie eine Pairing-Datei von einem PC.\n\nEs wird empfohlen, zur Server-Installationsmethode zurückzukehren."
+          }
+        },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6847,6 +6913,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Information"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Informationen"
           }
         },
         "pl" : {
@@ -7806,6 +7878,12 @@
             "value" : "More"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mehr"
+          }
+        },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8261,6 +8339,12 @@
             "value" : "No Entitlements listed."
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine Entitlements aufgeführt."
+          }
+        },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8502,6 +8586,12 @@
             "value" : "No Privacy Permissions listed."
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine Datenschutzberechtigungen aufgeführt."
+          }
+        },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8582,6 +8672,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "No sources to copy"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine Quellen zum Kopieren vorhanden"
           }
         },
         "pl" : {
@@ -9150,6 +9246,12 @@
             "value" : "Other"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sonstiges"
+          }
+        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9372,6 +9474,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Permissions"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Berechtigungen"
           }
         },
         "pl" : {
@@ -10601,6 +10709,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Removing the provisioning file will exclude the mobileprovision file from being embedded inside of the application when signing, to help prevent any detection."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Durch das Entfernen der Provisioning-Datei wird die mobileprovision-Datei beim Signieren nicht in die Anwendung eingebettet, was hilft, Erkennungen zu verhindern."
           }
         },
         "it" : {
@@ -12758,6 +12872,12 @@
             "value" : "Size"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Größe"
+          }
+        },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12791,6 +12911,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Source"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quelle"
           }
         },
         "pl" : {
@@ -12957,6 +13083,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sources copied to clipboard"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quellen wurden in die Zwischenablage kopiert"
           }
         },
         "pl" : {
@@ -13543,6 +13675,12 @@
             "value" : "Switch Back"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zurückwechseln"
+          }
+        },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13942,6 +14080,12 @@
             "value" : "This allows you to set rules for automatically replacing the Bundle ID/Display Name when signing an app."
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dies ermöglicht es Ihnen, Regeln zum automatischen Ersetzen der Bundle-ID und des Anzeigenamens beim Signieren einer Anwendung festzulegen."
+          }
+        },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14116,6 +14260,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tinted Icons"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eingefärbte Icons"
           }
         },
         "vi" : {
@@ -14431,6 +14581,12 @@
             "value" : "Updated"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktualisiert"
+          }
+        },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14649,6 +14805,12 @@
             "value" : "Version History"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Versionsverlauf"
+          }
+        },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14862,6 +15024,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "What's New"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Was ist neu"
           }
         },
         "pl" : {
