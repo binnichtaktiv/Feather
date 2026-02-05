@@ -5526,6 +5526,12 @@
             "value" : "Get"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Herunterladen"
+          }
+        },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
